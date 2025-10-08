@@ -1,5 +1,5 @@
 # WeatherClock-TFT
-A repository for my first ESP32 work.
+A repository for my first ESP32 project.
 
 ## Software
 "clock_weather_led_v1.1": 
@@ -14,3 +14,7 @@ You are supposed to set your own APIKey here.
 ## Hardware
 "Hardware":
 Reference for your linking and PCB.
+
+## Tips
+The code is poorly written because it was written about one years ago and at that time I didn't know how to use interrupt.
+I have forgotten this project for almost one year and now I'm trying to bring it to an end!
