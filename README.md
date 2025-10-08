@@ -12,3 +12,5 @@ String key = ""; // Set Your APIkey
 You are supposed to set your own APIKey here.
 
 ## Hardware
+"Hardware":
+Reference for your linking and PCB.
