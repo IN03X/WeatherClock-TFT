@@ -13,7 +13,7 @@ You are supposed to set your own APIKey here.
 
 ## Hardware
 "Hardware":
-Reference for your linking and PCB.
+Reference for your wiring connection.
 
 ## Tips
 The code is poorly written because it was written about one years ago and at that time I didn't know how to use interrupt.
